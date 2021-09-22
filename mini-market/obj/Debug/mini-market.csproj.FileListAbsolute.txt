@@ -1,0 +1,17 @@
+C:\Users\Абдулла\source\repos\mini-market\mini-market\bin\Debug\mini-market.exe.config
+C:\Users\Абдулла\source\repos\mini-market\mini-market\bin\Debug\mini-market.exe
+C:\Users\Абдулла\source\repos\mini-market\mini-market\bin\Debug\mini-market.pdb
+C:\Users\Абдулла\source\repos\mini-market\mini-market\bin\Debug\Guna.UI2.dll
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini-market.csprojAssemblyReference.cache
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.Properties.Resources.resources
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini-market.csproj.GenerateResource.cache
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini-market.csproj.CoreCompileInputs.cache
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini-market.csproj.CopyComplete
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini-market.exe
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini-market.pdb
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.LoginForm.resources
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.SplashForm.resources
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.CategoryForm.resources
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.ProductForm.resources
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.SellerForm.resources
+C:\Users\Абдулла\source\repos\mini-market\mini-market\obj\Debug\mini_market.SellingForm.resources
